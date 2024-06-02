@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bkosimi
+- 👋 Hi, I’m Botur Kosimi
 - 👀 I’m interested in developing apps and AI
-- 🌱 I’m currently learning JS, REACT, PY
+- 🌱 I’m currently learning JS/REACT/PY/C++
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me bkosimi@gmail.com
 
